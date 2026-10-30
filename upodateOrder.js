@@ -1,3 +1,3 @@
 const func = () => {
-    alert("func")
+    alert("update order")
 }
