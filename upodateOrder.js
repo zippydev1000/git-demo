@@ -1,3 +1,3 @@
 const func = () => {
-    alert("func")
+    console.log("func")
 }
